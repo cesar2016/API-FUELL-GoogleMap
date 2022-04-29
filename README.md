@@ -25,7 +25,7 @@
 
 ## SOBRE ESTE PROYECTO "API REST FULL CON LARAVEL" 
 
-Se creo una API REST FULL con laravel, generando dos Modesl: "Clients y Producs" con los cuales se han generado endpoints para crear un CRUD trabajandolo desde la aplicacion POSTMAN, tambien se consumio una API esterna para consultar y cargar la base de datos con datos de diferentes estaciones de Servicio del pais de MEXICO y tambien se utilizo otra pequeña API para consultar la cotizacion actual del U$D para Argentina .
+Se creo una API REST FULL con laravel, con un APi de Gasolineras endpoints para crear un CRUD trabajandolo desde la aplicacion POSTMAN, con ella se cargar la base de datos con datos de diferentes estaciones de Servicio del pais de MEXICO y tambien se utilizo otra pequeña API para consultar la cotizacion actual del U$D para Argentina .
 
 Cuenta con una pagina inicial PUBLICA en donde muestra todo el grupo de Estacioens de seervicio en un mapa de Google Map y un formulario dende poder generar busquedas unificadas por Codigo Postal trayendo info del comercio, como Razon social, precios de los cumbustibles, direccion etc.
 
